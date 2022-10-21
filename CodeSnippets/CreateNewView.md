@@ -1,3 +1,5 @@
+## Creates a new View with view code
+
 import UIKit
 
 class GenericView: UIView {
