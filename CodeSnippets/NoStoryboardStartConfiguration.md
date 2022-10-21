@@ -1,8 +1,8 @@
-## Start an app without using a storyboard
-# 1 - delete: SceneDelegate, main.storyborad
-# 2 - remove in infoplist all configuration inside Application Scene Manifest
-# 3 - go to Target, above General tab, seach for "main" and remove the value of UIKit Main Storyboard File Base Name
-# 4 - finally, delete all code in App Delegate and use the Code Snippet below
+# Start an app without using a storyboard
+### 1 - delete: SceneDelegate, main.storyborad
+### 2 - remove in infoplist all configuration inside Application Scene Manifest
+### 3 - go to Target, above General tab, seach for "main" and remove the value of UIKit Main Storyboard File Base Name
+### 4 - finally, delete all code in App Delegate and use the Code Snippet below
 
 import UIKit
 
