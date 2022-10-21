@@ -18,7 +18,7 @@ class GenericView: UIView {
     
     //MARK: - View Setup
     private func style() {
-        
+        translatesAutoresizingMaskIntoConstraints = false
     }
     
     private func layout() {
