@@ -3,5 +3,5 @@ Some useful Code Snippets and general tutorials to use when working with swift/x
 
 
 ## Folders
-### 1 - CodeSnippets [a link](https://github.com/tbdbatista/SwiftUtils/tree/main/CodeSnippets)
-#### a - No Sotryboard Configuration [a link](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/NoStoryboardStartConfiguration.md)
+### 1 - [CodeSnippets](https://github.com/tbdbatista/SwiftUtils/tree/main/CodeSnippets)
+#### a - [No Sotryboard Configuration](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/NoStoryboardStartConfiguration.md)
