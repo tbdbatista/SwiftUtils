@@ -1,0 +1,5 @@
+## Set translatesAutoresizingMaskIntoConstraints to false for every subview
+
+subviews.forEach { 
+  $0.translatesAutoresizingMaskIntoConstraints = false
+}
