@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         window = UIWindow()
-        window?.rootViewController = ViewController() //. <<== Change the name of your first view controller here
+        window?.rootViewController = ViewController() // <<== Change the name of your first view controller here
         window?.makeKeyAndVisible()
     
         return true
@@ -34,7 +34,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
 
         let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = ViewController()
+        window.rootViewController = ViewController() // <<== Change the name of your first view controller here
         self.window = window
         window.makeKeyAndVisible()
     }
