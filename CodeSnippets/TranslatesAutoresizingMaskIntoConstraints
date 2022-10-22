@@ -4,7 +4,7 @@ subviews.forEach {
   $0.translatesAutoresizingMaskIntoConstraints = false
 }
 
-## also
+## also for ViewControllers
 
 view.subviews.forEach { 
   $0.translatesAutoresizingMaskIntoConstraints = false
