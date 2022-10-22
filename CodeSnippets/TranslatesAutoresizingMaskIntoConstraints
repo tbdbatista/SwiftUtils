@@ -3,3 +3,9 @@
 subviews.forEach { 
   $0.translatesAutoresizingMaskIntoConstraints = false
 }
+
+## also
+
+view.subviews.forEach { 
+  $0.translatesAutoresizingMaskIntoConstraints = false
+}
