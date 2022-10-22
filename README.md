@@ -2,7 +2,7 @@
 Some useful Code Snippets and general tutorials to use when working with swift/xcode 
 
 
-## Folders
+## Index
 ### A. [CodeSnippets](https://github.com/tbdbatista/SwiftUtils/tree/main/CodeSnippets)
 #### 1. [Start an app without storyborad](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/NoStoryboardStartConfiguration.md)
 #### 2. [Creates a new View with view code](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/CreateNewView.md)
