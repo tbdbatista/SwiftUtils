@@ -18,3 +18,6 @@
 # Not so useful Shortcuts, but still good to know
 1. option + shift + K -> 
 2. option + shift + 8 -> °
+
+# Simulator Shortcuts
+1. command + K -> pops up the virtual keyboard, or hide it if is already shown on screen
