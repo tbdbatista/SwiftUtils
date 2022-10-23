@@ -12,6 +12,8 @@
 
 # Debugging with shorcuts
 1. command + control + mouse click on a variable -> navigate to variable definition
+2. command + control + left arrow -> goes back in navigation
+3. command + control + right arrow -> goes foward in navigation
 
 # Not so useful Shortcuts, but still good to know
 1. option + shift + K -> 
