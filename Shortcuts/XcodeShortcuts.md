@@ -11,7 +11,7 @@
 3. command + alt + \[ => moves selected code up one line
 4. command + alt + \] => moves selected code down one line
 
-# XCode window congiguration Shortcuts
+# XCode window configuration Shortcuts
 1. command + shift + Y => show and hide Debug area
 2. command + 0 => show and hide Navigator
 3. command + alt + 0 => show and hide Inspectors
