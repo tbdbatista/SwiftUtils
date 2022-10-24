@@ -9,6 +9,8 @@
 # Important Shortcuts
 1. command + shift + Y -> show and hide Debug area
 2. command + shift + T -> open a new window tab on xcode
+3. command + alt + \[ -> moves selected code up one line
+4. command + alt + \] -> moves selected code down one line
 
 # Debugging with shorcuts
 1. command + control + mouse click on a variable -> navigate to variable definition
