@@ -4,6 +4,8 @@
 3. command + shift + K => clean the build
 4. command + shift + J => shows the location of an open file in the working tree
 5. command + shift + O => open quickly
+6. command + shift + F => Find across project
+7. command + F => Find in file
 
 # Important Shortcuts
 1.
