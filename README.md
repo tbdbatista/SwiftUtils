@@ -8,5 +8,6 @@ Some useful Code Snippets and general tutorials to use when working with swift/x
 #### 2. [Creates a new View with view code](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/CreateNewView.md)
 #### 3. [Set translatesAutoresizingMaskIntoConstraints to false for every subview in context](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/TranslatesAutoresizingMaskIntoConstraints)
 #### 4. [Creates a generic ViewController with view code](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/GenericViewController.md)
+#### 5. [Creates a container to embbed a UIPageViewController](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/SetPageViewController.md)
 
 ### B. [XCode Shortcuts](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/XcodeShortcuts.md)
