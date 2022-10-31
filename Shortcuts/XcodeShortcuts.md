@@ -8,7 +8,7 @@
 7. command + F => Find in file
 
 # Important Shortcuts
-1.
+1. command + N => create a new file
 2. command + shift + T => open a new window tab on xcode
 3. command + alt + \[ => moves selected code up one line
 4. command + alt + \] => moves selected code down one line
