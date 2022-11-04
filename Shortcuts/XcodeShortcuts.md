@@ -7,6 +7,7 @@
 6. command + shift + F => Find across project
 7. command + F => Find in file
 8. command + G => go to next match after using comamnd + F
+9. command + control + E => rename a variable with Refactor
 
 # Important Shortcuts
 1. command + N => create a new file
