@@ -6,6 +6,7 @@
 5. command + shift + O => open quickly
 6. command + shift + F => Find across project
 7. command + F => Find in file
+8. command + G => go to next match after using comamnd + F
 
 # Important Shortcuts
 1. command + N => create a new file
