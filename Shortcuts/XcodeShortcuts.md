@@ -8,6 +8,7 @@
 7. command + F => Find in file
 8. command + G => go to next match after using comamnd + F
 9. command + control + E => rename a variable with Refactor
+10. command + shift = 0 => open Developer Documentation
 
 # Important Shortcuts
 1. command + N => create a new file
