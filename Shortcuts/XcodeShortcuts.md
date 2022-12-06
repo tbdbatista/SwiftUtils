@@ -8,13 +8,13 @@
 7. command + F => Find in file
 8. command + G => go to next match after using comamnd + F
 9. command + control + E => rename a variable with Refactor
-10. command + shift = 0 => open Developer Documentation
+10. command + shift + 0 => open Developer Documentation
 
 # Important Shortcuts
 1. command + N => create a new file
 2. command + shift + T => open a new window tab on xcode
-3. command + alt + \[ => moves selected code up one line
-4. command + alt + \] => moves selected code down one line
+3. command + alt + \[ => moves the selected code up one line
+4. command + alt + \] => moves the selected code down one line
 
 # XCode window configuration Shortcuts
 1. command + shift + Y => show and hide Debug area
