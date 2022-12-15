@@ -22,9 +22,10 @@
 3. command + alt + 0 => show and hide Inspectors
 
 # Debugging with Shorcuts
-1. command + control + mouse click on a variable -> navigate to variable definition
+1. command + control + mouse click on a variable => navigate to variable definition
 2. command + control + left arrow => goes back in navigation
 3. command + control + right arrow => goes foward in navigation
+4. alt + mouse click on a variable => show quick help
 
 # Not so useful Shortcuts, but still good to know
 1. option + shift + K => 
