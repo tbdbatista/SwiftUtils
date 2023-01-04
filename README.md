@@ -12,3 +12,4 @@ Some useful Code Snippets and general tutorials to use when working with swift/x
 #### 6. [Creates a generic scrollable UIViewController with view code](https://github.com/tbdbatista/SwiftUtils/blob/main/CodeSnippets/GenericScrollableViewController.swift)
 
 ### B. [XCode Shortcuts](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/XcodeShortcuts.md)
+### C. [Vi Shortcuts]()
