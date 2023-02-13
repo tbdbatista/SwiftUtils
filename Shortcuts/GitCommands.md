@@ -7,4 +7,4 @@
 5. git push origin +HEAD^:\<name of your branch> => discard last pushed commit on remote repository
 6. git push origin \<SHA>:\<name of your branch> => discard all pushed commits on remote repository after \<SHA> reference
 7. git reset HEAD^ => remove last local commit and keep changes
-8. git reset HEAD^ => remove all local commits after \<SHA> reference and keep all changes
+8. git reset \<SHA> => remove all local commits after \<SHA> reference and keep all changes
