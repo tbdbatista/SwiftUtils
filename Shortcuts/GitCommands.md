@@ -19,4 +19,4 @@
 17. git stash apply stash@{N} => reapply stash number N
 18. git stash clear => empties the stash list by removing all the stashes
 19. git stash drop <stash_id> => deletes a particular stash from the stash list
-20. 
+20. git stash branch <name of your branch> => applies stash to a new branch
