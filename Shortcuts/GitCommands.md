@@ -15,7 +15,6 @@
 13. git stash list => list all stashes
 14. git stash save <description> => add a description to the stash
 15. git stash apply => reapply last stashed changes (that is, stash@{0})
-16. git stash pop => also reapply last stashed changes (that is, stash@{0})
 17. git stash apply stash@{N} => reapply stash number N
 18. git stash clear => empties the stash list by removing all the stashes
 19. git stash drop <stash_id> => deletes a particular stash from the stash list
