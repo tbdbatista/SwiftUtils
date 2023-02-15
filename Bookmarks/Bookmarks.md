@@ -59,3 +59,5 @@ Awesome GitHub Repository list for iOS development
 ♌Awesome Cryptograph :- https://lnkd.in/eQ86uBHj
 
 ♍Security Talks :- https://lnkd.in/ezaRigmS
+
+credits to: Ganesh Raju Galla https://www.linkedin.com/in/ganesh-raju-galla-a7018113a/
