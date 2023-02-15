@@ -14,3 +14,4 @@ Some useful Code Snippets and general tutorials to use when working with swift/x
 ### B. [XCode Shortcuts](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/XcodeShortcuts.md)
 ### C. [Vi Shortcuts](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/ViShortcuts.md)
 ### D. [Git Commands](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/GitCommands.md)
+### E. [Bookmarks](https://github.com/tbdbatista/SwiftUtils/blob/main/Bookmarks/Bookmarks.md)
