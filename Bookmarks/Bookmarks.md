@@ -8,7 +8,7 @@ Awesome Swift :- https://lnkd.in/eVMU69KH
 
 Open-Source iOS Apps :- https://lnkd.in/eqdx_XCn
 
-♌The Awesome Server Side Swift :- https://lnkd.in/eKhNVE2a
+The Awesome Server Side Swift :- https://lnkd.in/eKhNVE2a
 
 iOS Dev Directory :- https://lnkd.in/eYfen638
 
@@ -59,5 +59,6 @@ Cocoa Conferences :- https://lnkd.in/eKJJmXvG
 Awesome Cryptograph :- https://lnkd.in/eQ86uBHj
 
 Security Talks :- https://lnkd.in/ezaRigmS
+
 
 credits to: Ganesh Raju Galla https://www.linkedin.com/in/ganesh-raju-galla-a7018113a/
