@@ -15,4 +15,4 @@ Some useful Code Snippets and general tutorials to use when working with swift/x
 ### C. [Vi Shortcuts](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/ViShortcuts.md)
 ### D. [Git Commands](https://github.com/tbdbatista/SwiftUtils/blob/main/Shortcuts/GitCommands.md)
 ### E. [Bookmarks](https://github.com/tbdbatista/SwiftUtils/blob/main/Bookmarks/Bookmarks.md)
-### F. [Tutorials]()
+### F. [Tutorials](https://github.com/tbdbatista/SwiftUtils/tree/main/Tutorials)
