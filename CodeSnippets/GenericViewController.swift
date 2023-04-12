@@ -17,10 +17,10 @@ class ViewController: UIViewController {
         self.view.backgroundColor = .white
         self.view.addSubview(stackView)
         self.stackView.addArrangedSubview(mainLabel)
-        self.view.subviews.forEach { $0.translatesAutoresizingMaskIntoConstraints = false }
     }
     
     private func setupStackView() {
+    stackView.translatesAutoresizingMaskIntoConstraints = false
         NSLayoutConstraint.activate([
             stackView.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             stackView.centerYAnchor.constraint(equalTo: view.centerYAnchor)
